@@ -15,11 +15,13 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: Projects
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: Skill Sets
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: Certifications
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Hobbies
+    details: Motorcycling
 ---
 
